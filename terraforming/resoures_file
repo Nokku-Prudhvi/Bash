@@ -1,0 +1,6 @@
+alb
+ec2
+s3
+rds
+
+#terraforming --help>resouces_list
